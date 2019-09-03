@@ -15,3 +15,8 @@ First, specify list's length. Enter numbers. Finally output minimum number.
 
 最初に、リストの数を指定してます。リスト数に合わせて、任意の数を入力します。最終的に、その中で最小の数を出力します。
 
+# get_min_max_numbers.py 
+
+Get smallest&largest number in input numbers.
+
+入力した数から、最小と最大の数を出力
